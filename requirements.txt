@@ -4,3 +4,4 @@ jsonschema
 numpy
 pandas>=0.18
 toolz
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
